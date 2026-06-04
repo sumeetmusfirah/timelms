@@ -7,6 +7,7 @@ $ python scripts/combine.py <output_file> <months:YYYY-MM>
 $ python scripts/combine.py tweets-2020-Q3.jl 2020-01 2020-02 2020-03
 """
 
+
 import sys
 import json
 import logging
